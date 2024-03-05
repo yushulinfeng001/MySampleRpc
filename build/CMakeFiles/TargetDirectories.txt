@@ -1,0 +1,11 @@
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/CMakeFiles/rebuild_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/CMakeFiles/edit_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/src/CMakeFiles/mprpc.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/src/CMakeFiles/edit_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/CMakeFiles/edit_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/login/CMakeFiles/edit_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/login/CMakeFiles/client.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/login/CMakeFiles/rebuild_cache.dir
+/home/shang/code/C++/github-project/student-work-project/tinyrpc/build/example/login/CMakeFiles/server.dir
